@@ -14,9 +14,9 @@
 ___
 ### Step by Step
 1. remove (screw of) the lid from the peanut butter and place the lid on the counter
-2. remove (scrw of) the lid from the jelly and place it on the counter
+2. remove (screw of) the lid from the jelly and place it on the counter
 3. pick up the spoon
-4. scoop up some peanut buter from the jar onto the spoon
+4. scoop up some peanut butter from the jar onto the spoon
 5. drop peanut butter from the spoon onto the left slice of bread
 6. evenly spread the peanut butter onto the left slice of bread using the rounded side of the spoon
 7. pick up the napkin and wipe excess peanut butter from the spoon
@@ -31,3 +31,4 @@ ___
 16. Place left bread onto right bread with the peanut butter and jelly sides touching
 17. Throw away the used napkin
 18. return peanut butter and jelly jars to their starting positions.
+19. Task completed as the sandwich is constructed and the workspace is clean
